@@ -7,6 +7,6 @@ Paso 0.1) Descargar python de ese enlace: https://www.python.org/ftp/python/3.10
 
 Paso 0.2) Ejecutar un git clone de cd https://github.com/jovargasg/idk
 
-Paso 1) Ejecutar chaoclase.py
+Paso 1) Ejecutar cd idk (para ir a la carpeta)
 
-Paso 2) 
+Paso 2) Y luego ejecutar chaoclase.py
